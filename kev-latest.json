@@ -1,7 +1,7 @@
 {
-  "cveID": "CVE-2026-19490",
-  "vendorProject": "Citrix",
-  "product": "NetScaler",
-  "dateAdded": "2026-09-09",
-  "cisaUrl": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-19490"
+  "cveID": "CVE-2026-86060",
+  "vendorProject": "MikroTik",
+  "product": "RouterOS",
+  "dateAdded": "2026-09-10",
+  "cisaUrl": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-86060"
 }
