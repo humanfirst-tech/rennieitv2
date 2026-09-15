@@ -1,7 +1,7 @@
 {
-  "cveID": "CVE-2026-84869",
-  "vendorProject": "ConnectWise",
-  "product": "ScreenConnect",
-  "dateAdded": "2026-09-11",
-  "cisaUrl": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-84869"
+  "cveID": "CVE-2026-76461",
+  "vendorProject": "Cisco",
+  "product": "Secure Email Gateway",
+  "dateAdded": "2026-09-14",
+  "cisaUrl": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76461"
 }
