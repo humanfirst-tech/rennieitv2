@@ -1,7 +1,7 @@
 {
-  "cveID": "CVE-2026-76461",
-  "vendorProject": "Cisco",
-  "product": "Secure Email Gateway",
-  "dateAdded": "2026-09-14",
-  "cisaUrl": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76461"
+  "cveID": "CVE-2026-58704",
+  "vendorProject": "Google",
+  "product": "Pixel",
+  "dateAdded": "2026-09-16",
+  "cisaUrl": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-58704"
 }
