@@ -1,7 +1,7 @@
 {
-  "cveID": "CVE-2026-58704",
-  "vendorProject": "Google",
-  "product": "Pixel",
-  "dateAdded": "2026-09-16",
-  "cisaUrl": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-58704"
+  "cveID": "CVE-2025-39964",
+  "vendorProject": "Linux",
+  "product": "Kernel",
+  "dateAdded": "2026-09-18",
+  "cisaUrl": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-39964"
 }
