@@ -1,22 +1,13 @@
-# Rennie IT Website
+# Rennie IT — Ongoing GRC Website
 
-Static GitHub Pages-compatible site.
+New positioning: dedicated IT risk, compliance and audit support without adding a full-time role.
 
-Files:
-- index.html — main Rennie IT homepage
-- riskview.html — standalone Rennie IT RiskView page
-- riskview.js — interactive fictional dental-practice RiskView example
-- style.css — shared site and RiskView styling
-- rennie-logo-mark.png — logo mark
-- README.md — this file
+Main files:
+- index.html — primary landing page
+- ongoing-grc.html — flagship recurring service
+- risk-assessment.html — assessment entry point
+- hipaa.html — HIPAA assessment page retained
+- technology.html — technology/remediation support
+- style.css — shared styling
 
-RiskView uses AG Grid Community from a CDN. The dental-practice data is fictional and illustrative.
-
-- robert-rennie.jpg — founder photo used in the About section
-
-## Search and AI readiness
-Added canonical metadata, descriptive page titles, LocalBusiness/ProfessionalService structured data,
-founder/service-area/expertise signals, RiskView WebPage structured data, robots.txt and sitemap.xml.
-
-Canonical domain assumed: https://www.renniteit.com
-Verify this exact live domain before publishing. Real telephone/address were intentionally not invented.
+Open index.html with VS Code Live Server to preview.
