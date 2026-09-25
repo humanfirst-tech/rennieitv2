@@ -1,13 +1,7 @@
-# Rennie IT — Ongoing GRC Website
+# Rennie GRC — Managing IT Risk
 
-New positioning: dedicated IT risk, compliance and audit support without adding a full-time role.
+Static GitHub Pages website for https://www.renniegrc.com.
 
-Main files:
-- index.html — primary landing page
-- ongoing-grc.html — flagship recurring service
-- risk-assessment.html — assessment entry point
-- hipaa.html — HIPAA assessment page retained
-- technology.html — technology/remediation support
-- style.css — shared styling
+Positioning: IT governance, risk, compliance, audit and cybersecurity risk advisory. Rennie GRC is not positioned as a traditional MSP.
 
-Open index.html with VS Code Live Server to preview.
+Primary contact: robert@renniegrc.com
