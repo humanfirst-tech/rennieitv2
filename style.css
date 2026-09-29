@@ -14,3 +14,5 @@
 @media(max-width:580px){.portrait-caption{font-size:.8rem}.experience-cards{grid-template-columns:1fr}.about-copy h2{font-size:2.25rem}}
 /* v1.3: round all four portrait corners */
 .portrait-large img{border-radius:18px}
+
+.industry-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}.industry-card{padding:30px;border:1px solid var(--line);border-radius:16px;background:#fff;box-shadow:0 1px 0 rgba(0,0,0,.01)}.industry-card>span{display:inline-block;margin-bottom:10px;color:var(--blue2);font-size:.75rem;font-weight:900;letter-spacing:.1em;text-transform:uppercase}.industry-card h3{font-size:1.45rem}.industry-card h4{margin:24px 0 8px;font-size:.9rem}.industry-card p,.industry-card li{color:var(--muted);font-size:.94rem}.industry-card ul{padding-left:20px}.industry-card .note{padding:14px 16px;background:var(--soft);border-left:3px solid var(--blue);border-radius:8px;font-size:.84rem}.text-link{display:inline-block;margin-top:10px;color:var(--blue2);font-weight:800}.text-link:hover{text-decoration:underline}@media(max-width:850px){.industry-grid{grid-template-columns:1fr}}
